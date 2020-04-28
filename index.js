@@ -119,7 +119,7 @@ Baby.prototype.play = function(){
 
   In your own words explain the four principles for the "this" keyword below:
   1. Default Binding - is the function called in the global scope
-  2. Implicit Binding - is the function called as a methd
+  2. Implicit Binding - is the function called as a method
   3. Explicit Binding - is the function called by call(), bind(), or apply()
   4. New Binding - is the function called by new
 */
